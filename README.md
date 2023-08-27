@@ -1,3 +1,3 @@
 # Can-Shop
 
-An interactive shopping experience. A responsive website using html, css and jaascript.
+An interactive shopping experience. A responsive website using html, css and javascript.
